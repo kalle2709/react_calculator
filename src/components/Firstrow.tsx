@@ -3,8 +3,8 @@ import AddIcon from '@mui/icons-material/Add';
 import { Button, Stack } from '@mui/material';
 import { useDispatch, useSelector } from 'react-redux';
 
-import { add, percentage, reset, signSymbol } from '../store/calculatorSlice';
-import { RootState } from '../store/store';
+import { add, percentage, reset, signSymbol } from './store/calculatorSlice';
+import { RootState } from './store/store';
 
 import './styles.css';
 

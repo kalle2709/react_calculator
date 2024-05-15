@@ -6,8 +6,8 @@ import HorizontalRuleIcon from '@mui/icons-material/HorizontalRule';
 import PercentIcon from '@mui/icons-material/Percent';
 import DragHandleIcon from '@mui/icons-material/DragHandle';
 
-import { RootState } from '../store/store';
-import { div, mul, result, sub } from '../store/calculatorSlice';
+import { RootState } from './store/store';
+import { div, mul, result, sub } from './store/calculatorSlice';
 
 import './styles.css';
 
