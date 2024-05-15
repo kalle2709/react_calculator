@@ -1,3 +1,14 @@
+# Setting up the Git Environment
+
+1. First install git.
+2. Then open the command prompt and navigate to the existing code folder and then initialize the git repository using "git init".
+3. Add the remote repository inside your existing code folder using command prompt and the command "git remote add origin <repository-url>"
+4. Add all the files using "git add." to staging or using vs code.
+5. Commit using git commit -m "message".
+6. push the changes "git push -u origin master".
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
