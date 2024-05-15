@@ -2,7 +2,7 @@ import React from 'react'
 import { useDispatch } from 'react-redux';
 import { Button, Chip, Stack } from '@mui/material';
 
-import { valueChange } from '../store/calculatorSlice';
+import { valueChange } from './store/calculatorSlice';
 import './styles.css';
 
 

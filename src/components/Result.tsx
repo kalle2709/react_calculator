@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import { Box } from '@mui/material';
 
-import { RootState } from '../store/store';
+import { RootState } from './store/store';
 
 import './styles.css';
 
