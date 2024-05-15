@@ -1,0 +1,85 @@
+.maingrid{
+    justify-content: center;
+    align-items: center;
+}
+
+.value{
+    text-align: right;
+    padding-top: 2rem;
+}
+
+.resarea{
+    color:white;
+    margin-right: 40px;
+    height: 100px;
+}
+
+.reset{
+    background-color: rgb(196, 196, 196)!important;
+    border-radius: 50%!important;
+    color: black!important;
+    padding:20px!important;
+
+    &:hover{
+        background-color: none!important;
+    }
+    
+}
+
+.digitscontainer{
+    padding-top: 20px;
+}
+
+.digit{
+    background-color: rgb(94, 93, 93)!important;
+    border-radius: 50%!important;
+    color: white!important;
+    padding:20px!important;
+    font-size: 1rem;
+
+    &:hover{
+        background-color: none!important;
+    }
+}
+
+.zero{
+    height:50%;
+    padding-left: 30px!important;
+    padding-top:25px!important;
+    padding-bottom :25px!important;
+    background-color: rgb(94, 93, 93)!important;
+    span{
+        color: white !important;
+        padding-right:90px;
+        font-size: 1rem;
+       
+    }
+
+}
+
+.dot{
+    background-color: rgb(94, 93, 93)!important;
+    border-radius: 50%!important;
+    color: white!important;
+    padding: 12px!important;
+}
+
+.digittext{
+    font-size: 1rem;
+}
+
+
+.Calbox{
+   
+    padding:20px;
+}
+
+.button{
+    background-color: orange!important;
+    border-radius: 50%!important;
+    padding:20px!important;
+    &:hover{
+        background-color: none!important;
+    }
+    
+}
