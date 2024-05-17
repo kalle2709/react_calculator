@@ -2,7 +2,7 @@
 
 1. First install git.
 2. Then open the command prompt and navigate to the existing code folder and then initialize the git repository using "git init".
-3. Add the remote repository to newlycreated repo using command prompt and the command "git remote add origin <repository-url>"
+3. Add the remote repository to newly created repo using command prompt and the command "git remote add origin <repository-url>"
 4. Add all the files using "git add." to staging or using vs code.
 5. Commit using git commit -m "message".
 6. push the changes "git push -u origin master".
